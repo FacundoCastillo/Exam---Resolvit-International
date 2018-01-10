@@ -56,7 +56,7 @@ namespace Resolvit___Exam.ParagraphProcessing
                     string stemmedWord = stemmer.Stem(word);
 
                     //Check if the word is one of the words we don't want to include in the analysis or the result set.
-                    if (!StopWordsHelper.isStopword(word))
+                    if (!StopWordsHelper.isStopword(word) && !String.IsNullOrWhiteSpace(word))
                     {
                         //Check if we have evaluated the Unique word.
                         if (SampleOutput.Results.Any(x => stemmer.Stem(x.Word) == stemmedWord))

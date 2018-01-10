@@ -11,3 +11,16 @@ D:\Resolvit\Resolvit - Exam\Resolvit - Exam\obj\Debug\Resolvit - Exam.exe
 D:\Resolvit\Resolvit - Exam\Resolvit - Exam\obj\Debug\Resolvit - Exam.pdb
 D:\Resolvit\Resolvit - Exam\Resolvit - Exam\bin\Debug\Models\EnglishSD.nbin
 D:\Resolvit\Resolvit - Exam\Resolvit - Exam\obj\Debug\Resolvit - Exam.csprojResolveAssemblyReference.cache
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\bin\Debug\Models\EnglishSD.nbin
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\bin\Debug\Resolvit - Exam.exe.config
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\bin\Debug\Resolvit - Exam.exe
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\bin\Debug\Resolvit - Exam.pdb
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\bin\Debug\Newtonsoft.Json.dll
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\bin\Debug\OpenNLP.dll
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\bin\Debug\SharpEntropy.dll
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\bin\Debug\StemmersNet.dll
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\bin\Debug\Newtonsoft.Json.xml
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\obj\Debug\Resolvit - Exam.csprojResolveAssemblyReference.cache
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\obj\Debug\Resolvit - Exam.csproj.CoreCompileInputs.cache
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\obj\Debug\Resolvit - Exam.exe
+D:\Resolvit\Exam---Resolvit-International\Resolvit - Exam\Resolvit - Exam\obj\Debug\Resolvit - Exam.pdb
